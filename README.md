@@ -1,7 +1,9 @@
 ## Welcome Hyeon's git (SooHoon Choi) 👋
 
----
+📧 My Email : dkehskeh@gmail.com
 
+![](https://camo.githubusercontent.com/9956d1569d01e989bfd0e7008a1c71e74f844ffeeaec49ac0784453b89e79b4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f74696f6e2d6666666666663f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d626c61636b)
+[Invite my Notion](https://www.notion.so/1-07-14-48f20816fdb84e4dbd5b528db4a616ad)
 
 <!--
 **SooHoon95/SooHoon95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
