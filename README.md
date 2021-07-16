@@ -6,7 +6,7 @@
 [Invite my Notion](https://www.notion.so/1-07-14-48f20816fdb84e4dbd5b528db4a616ad)
 
 ---
-#####🎇 Keep go'in with those Lan.  
+#### 🎇 Keep goin' with those Lan.  
    
 <img src="https://img.shields.io/badge/JAVA-critical?style=for-the-badge&logo=java&logoColor=#007396"/></a>
 <img src="https://img.shields.io/badge/PYTHON-3776ABl?style=for-the-badge&logo=PYTHON&logoColor=#3776ABl"/></a>
