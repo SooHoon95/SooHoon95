@@ -16,6 +16,10 @@
    
 <img src="https://img.shields.io/badge/Eclipse-blueviolet?style=for-the-badge&logo=Eclipse&logoColor=#FA7343"/></a>
 <img src="https://img.shields.io/badge/SPRING-green?style=for-the-badge&logo=Spring&logoColor=#ffffff"/></a>
+<img src="https://img.shields.io/badge/Xcode-gray?style=for-the-badge&logo=Xcode&logoColor=#FA7343"/></a>
+<img src="https://img.shields.io/badge/AndroidStudio-inactive?style=for-the-badge&logo=Android&logoColor=#FA7343"/></a>
+<img src="https://img.shields.io/badge/VScode-informational?style=for-the-badge&logo=Visual Studio&logoColor=#5C2D91"/></a>
+
 
 <!--
 **SooHoon95/SooHoon95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
