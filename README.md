@@ -7,10 +7,12 @@
 
 ---
 #### 🎇 Keep goin' with those Lan.  
-   
+
+<img src="https://img.shields.io/badge/SWIFT-blueviolet?style=for-the-badge&logo=SWIFT&logoColor=#FA7343"/></a>
+<img src="https://img.shields.io/badge/FLUTTER-informational?style=for-the-badge&logo=FLUTTER&logoColor=#FA7343"/></a>
 <img src="https://img.shields.io/badge/JAVA-critical?style=for-the-badge&logo=java&logoColor=#007396"/></a>
 <img src="https://img.shields.io/badge/PYTHON-3776ABl?style=for-the-badge&logo=PYTHON&logoColor=#3776ABl"/></a>
-<img src="https://img.shields.io/badge/SWIFT-blueviolet?style=for-the-badge&logo=SWIFT&logoColor=#FA7343"/></a>
+
 
 #### 🎇 Tools
    
