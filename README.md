@@ -11,16 +11,16 @@
 <img src="https://img.shields.io/badge/SWIFT-blueviolet?style=for-the-badge&logo=SWIFT&logoColor=#FA7343"/></a>
 <img src="https://img.shields.io/badge/FLUTTER-informational?style=for-the-badge&logo=FLUTTER&logoColor=#FA7343"/></a>
 <img src="https://img.shields.io/badge/JAVA-critical?style=for-the-badge&logo=java&logoColor=#007396"/></a>
-<img src="https://img.shields.io/badge/PYTHON-3776ABl?style=for-the-badge&logo=PYTHON&logoColor=#3776ABl"/></a>
+<!-- <img src="https://img.shields.io/badge/PYTHON-3776ABl?style=for-the-badge&logo=PYTHON&logoColor=#3776ABl"/></a> -->
 <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
 
 
 #### 🎇 Tools
    
 <img src="https://img.shields.io/badge/Eclipse-blueviolet?style=for-the-badge&logo=Eclipse&logoColor=#FA7343"/></a>
-<img src="https://img.shields.io/badge/SPRING-green?style=for-the-badge&logo=Spring&logoColor=Green"/></a>
+<!-- <img src="https://img.shields.io/badge/SPRING-green?style=for-the-badge&logo=Spring&logoColor=Green"/></a> -->
 <img src="https://img.shields.io/badge/Xcode-gray?style=for-the-badge&logo=Xcode&logoColor=#FA7343"/></a>
-<img src="https://img.shields.io/badge/AndroidStudio-inactive?style=for-the-badge&logo=Android&logoColor=#FA7343"/></a>
+<!-- <img src="https://img.shields.io/badge/AndroidStudio-inactive?style=for-the-badge&logo=Android&logoColor=#FA7343"/></a> -->
 <img src="https://img.shields.io/badge/VScode-informational?style=for-the-badge&logo=Visual Studio&logoColor=#5C2D91"/></a>
 <img src="https://img.shields.io/badge/MySQL-9cf?style=for-the-badge&logo=MySQL&logoColor=#4479A1"/></a>
 
