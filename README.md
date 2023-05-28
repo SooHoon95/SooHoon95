@@ -23,13 +23,15 @@
    
 <div align = center>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=VisualStudio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=VisualStudio&logoColor=white"/>
 </div>
 
 <div align=center>
+<br></br>
+
    Interested in Clean Architechture & Reactive Programming for Swift
    </div>
  
-
+<br></br>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soohoon95&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soohoon95&layout=compact)](https://github.com/soohoon95/github-readme-stats)
