@@ -25,6 +25,10 @@
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=VisualStudio&logoColor=white"/></a>
 </div>
+
+<div align=center>
+   Interested in Clean Architechture & Reactive Programming for Swift
+   </div>
  
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soohoon95&show_icons=true&theme=radical)
