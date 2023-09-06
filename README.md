@@ -1,6 +1,6 @@
 <!-- Mobile developer for iOS / Flutter 👋 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=F05138&section=header&reversal=true&height=200&text=Mob%20Developer&fontSize=40&desc=Hyeon(SooHoon)&descAlign=90&descSize=15)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F05138&section=header&reversal=true&height=200&text=Mob%20Developer&fontSize=40&desc=SooHoon&descAlign=90&descSize=15)
 
 
 <div align=center>
@@ -28,7 +28,9 @@
 
 <div align=center>
 <br></br>
-
+   [Live Service Weathervely iOS Developer](https://apps.apple.com/kr/app/%EC%9B%A8%EB%8D%94%EB%B8%94%EB%A6%AC/id6462055767)
+<br></br>
+   
    Interested in Clean Architechture & Reactive Programming for Swift
    </div>
  
