@@ -28,7 +28,12 @@
 
 <div align=center>
 <br></br>
+   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/26/5b/b0/265bb0d6-3ada-0088-562c-b295dfb37971/AppIcon-1x_U007emarketing-0-6-0-85-220.png/460x0w.webp" width ="200" height ="200"/></a>
+   
+<br></br>
+   
    [Live Service Weathervely iOS Developer](https://apps.apple.com/kr/app/%EC%9B%A8%EB%8D%94%EB%B8%94%EB%A6%AC/id6462055767)
+   
 <br></br>
    
    Interested in Clean Architechture & Reactive Programming for Swift
