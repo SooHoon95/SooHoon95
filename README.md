@@ -1,4 +1,4 @@
-<!-- Mobile developer for iOS / Flutter 👋 -->
+Mobile developer for iOS / Flutter 👋
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F05138&section=header&reversal=true&height=200&text=Mob%20Developer&fontSize=40&desc=SooHoon&descAlign=90&descSize=15)
 
