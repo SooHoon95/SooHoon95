@@ -11,8 +11,6 @@
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/></a> <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=VisualStudio&logoColor=white"/>
 </div>
 
-
-<div align=center>
    <br/>
 
    Email : hyeondev95@gmaill.com<br/> Portfolio : https://devhyeon95.notion.site/iOS-App-Developer-b69a6a591c454d5f815eca891768cb69?pvs=4<br/> Blog : https://hyeon-dev.tistory.com/<br/> LinkedIn : https://www.linkedin.com/in/soohoon-choi-600a41257/
